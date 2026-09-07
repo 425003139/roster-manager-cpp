@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1788769122 source:d:\college\2nd year\roster-manager-cpp\main.cpp
+	<limits>
+	<iostream>
+	<string>
+	"include/functions.h"
+
+1788769198 d:\college\2nd year\roster-manager-cpp\include\functions.h
+	<string>
+
+1788769550 source:d:\college\2nd year\roster-manager-cpp\src\functions.c
+	<iostream>
+	<string>
+
